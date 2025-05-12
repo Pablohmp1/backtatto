@@ -1,0 +1,13 @@
+{
+  "name": "backtatto",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tatto", "Desenvolvimento WEB", "Node.js", "Express", ""],
+  "author": "Daniel dos Santos Ferreira Custódio",
+  "license": "ISC",
+  "description": "Sistema de exemplo Para curso de técnico de Informática do IFSP, aplicando API.",
+  "type": "module"
+}
